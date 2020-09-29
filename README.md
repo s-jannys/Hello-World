@@ -1,3 +1,11 @@
 # Hello-World
-My Name is Janny.
-I love tacos.
+
+#include <iostream>
+using namespace
+int main
+{
+  cout<< "Hello, World!\n">
+  return 0;
+  
+}
+
